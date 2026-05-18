@@ -18,7 +18,8 @@
         "magento/product-community-edition": "2.4.7-p4",
         "mage2pro/core": "*",
         "ngp/core": "*",
-        "yireo/magento2-googletagmanager2": "*"
+        "yireo/magento2-googletagmanager2": "*",
+        "elgentos/serversideanalytics2": "*"
     },
     "require-dev": {
         "allure-framework/allure-phpunit": "^2",

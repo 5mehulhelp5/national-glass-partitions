@@ -454,6 +454,8 @@ return [
         'Smartwave_Megamenu' => 1,
         'Smartwave_Porto' => 1,
         'Smartwave_Socialfeeds' => 1,
-        'TemplateMonster_Megamenu' => 0
+        'TemplateMonster_Megamenu' => 0,
+        'Yireo_CspUtilities' => 1,
+        'Yireo_GoogleTagManager2' => 1
     ]
 ];

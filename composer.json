@@ -17,7 +17,8 @@
         "amasty/module-product-feed-subscription-package": "^3.1",
         "magento/product-community-edition": "2.4.7-p4",
         "mage2pro/core": "*",
-        "ngp/core": "*"
+        "ngp/core": "*",
+        "yireo/magento2-googletagmanager2": "*"
     },
     "require-dev": {
         "allure-framework/allure-phpunit": "^2",

@@ -5,6 +5,8 @@
 # 2.1) https://developer.mozilla.org/en-US/docs/Glossary/Robots.txt
 # 2.2) https://developer.mozilla.org/en-US/docs/Web/Security/Practical_implementation_guides/Robots_txt
 # 3) https://developers.google.com/search/docs/crawling-indexing
+# 4) @todo "Replace `<meta name='robots' content='NOINDEX,FOLLOW'/>` with `robots.txt` rules":
+# https://github.com/national-glass-partitions/core/issues/11
 User-agent: *
 Disallow: /*&SID=
 Disallow: /*?SID=

@@ -9,6 +9,7 @@ RewriteRule ^home$ %{REQUEST_SCHEME}://%{HTTP_HOST} [R=301,L]
 # 1) "Remove the trailing slash from URLs": https://github.com/national-glass-partitions/m/issues/48
 # 2) "Google Search Console: Duplicate without user-selected canonical»
 # for `/industrial-style-glass-partitions`": https://github.com/national-glass-partitions/m/issues/47
+# 3) https://gemini.google.com/share/6547f804bcf7
 RewriteCond %{REQUEST_METHOD} ^GET$
 RewriteCond %{REQUEST_URI} ^(.*)/$
 RewriteRule ^(.*)/$ /$1 [L,R=301]

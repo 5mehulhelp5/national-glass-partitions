@@ -1,5 +1,8 @@
 # 2026-05-14 Dmitrii Fediuk https://upwork.com/fl/mage2pro
 # "Refactor `robots.txt`": https://github.com/national-glass-partitions/m/issues/26
+# 2026-06-01
+# 1) «Robots Exclusion Protocol»: https://datatracker.ietf.org/doc/html/rfc9309
+
 User-agent: *
 Disallow: /*&SID=
 Disallow: /*?SID=
